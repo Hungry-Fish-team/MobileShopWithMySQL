@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 80ca982da85713b4d92b23c539812864
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5402015238866840364
+    second: color-ecommerce-icons_0
+  - first:
+      213: -4660590358245943696
+    second: color-ecommerce-icons_1
+  - first:
+      213: -6498233106498387022
+    second: color-ecommerce-icons_2
+  - first:
+      213: -2603796595132246326
+    second: color-ecommerce-icons_3
+  - first:
+      213: 5024748303458218681
+    second: color-ecommerce-icons_4
+  - first:
+      213: -1580099099781635056
+    second: color-ecommerce-icons_5
+  - first:
+      213: 5217688857294649861
+    second: color-ecommerce-icons_6
+  - first:
+      213: 4311684688337045411
+    second: color-ecommerce-icons_7
+  - first:
+      213: -4515394716045828029
+    second: color-ecommerce-icons_8
+  - first:
+      213: 6166856787132930906
+    second: color-ecommerce-icons_9
+  - first:
+      213: -7551715812095784264
+    second: color-ecommerce-icons_10
+  - first:
+      213: -8590516692422485279
+    second: color-ecommerce-icons_11
+  - first:
+      213: 5523680112733478425
+    second: color-ecommerce-icons_12
+  - first:
+      213: 6467083919117700772
+    second: color-ecommerce-icons_13
+  - first:
+      213: 2044218680251216913
+    second: color-ecommerce-icons_14
+  - first:
+      213: 3153489390311869856
+    second: color-ecommerce-icons_15
+  - first:
+      213: 1721546872372860028
+    second: color-ecommerce-icons_16
+  - first:
+      213: 1348125575142003671
+    second: color-ecommerce-icons_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: color-ecommerce-icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1666.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1fc7e7203181644b447a83df2e1dc7
+      internalID: -5402015238866840364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1666.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45874fed63ff65040a017f4bdabfa841
+      internalID: -4660590358245943696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1666.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc43108586116740816a1e424b68fc7
+      internalID: -6498233106498387022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1333.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3645adf261e9f244fa063f4b829ca92f
+      internalID: -2603796595132246326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1333.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307d934f284eb0748a3f418327897bad
+      internalID: 5024748303458218681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1333.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0695cb0c421770149a1c12219dc952e6
+      internalID: -1580099099781635056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7961f73aba8366c48abd2f6bed4c7d02
+      internalID: 5217688857294649861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1000.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a590c40e507a744a2fc595bb1a6d7a
+      internalID: 4311684688337045411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1000.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196b632320fe904197524fd32beb7af
+      internalID: -4515394716045828029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ba3bf8b6512cb4eb34985d8363f45c
+      internalID: 6166856787132930906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 667.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c956c5b766f2714f87dc343a30b8450
+      internalID: -7551715812095784264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 667.6666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2124c1beebfe1f647b6c7cf147bd4516
+      internalID: -8590516692422485279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334.66666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b26781da6192f4680aabf28f74eb70
+      internalID: 5523680112733478425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 334.66666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87edb1348fd42724ab320e4087b85041
+      internalID: 6467083919117700772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_14
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 334.66666
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d390526bd05ed4c8536533aa7bd93d
+      internalID: 2044218680251216913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6666565
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93904b9b9dfc0594094a1e4c83c5c224
+      internalID: 3153489390311869856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1.6666565
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e540e4de10e6945a8e70ed3cfd3993
+      internalID: 1721546872372860028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color-ecommerce-icons_17
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1.6666565
+        width: 333.33334
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6160505bbae3243a24f68cf5cea040
+      internalID: 1348125575142003671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3b3ab06d8e55398429cac27827d191d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
